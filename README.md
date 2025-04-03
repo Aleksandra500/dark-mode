@@ -10,7 +10,7 @@ This is a simple React project built using Create React App.
 Installation:
 
 Clone the repository:
-git clone https://github.com/yourusername/dark-mode.git
+git clone https://github.com/Aleksandra500/dark-mode.git
 cd project-name
 
 Install dependencies:
